@@ -9,7 +9,7 @@ Below is a list of data science projects I have been working on:
   - Project 1: Foundations for AI & ML – MovieLens Data Exploration (Pandas, NumPy, Visualisation techniques, EDA).
   - Project 2: Supervised Learning – Loans Campaign Target Prediction (Supervised Learning, Logistic Regression, Model Evaluation, EDA).
   - Project 3: Ensemble Techniques – Travel Package Purchase Prediction (Bagging, Boosting, Stacking, Model Evaluation, EDA)
-  - Project 4:  Feature Selection and Model Tuning  - Credit card users churn prediction (Hyperparameter Tuning, Grid & Random Search, Model Evaluation, EDA, Business recommendations)
+  - Project 4:  Feature Selection, Model Selection and Tuning - Credit card users churn prediction (Cross Validation, Up and Down Sampling, Regularization, Pipelines and Hyper-parameters Tuning)
   - Project 5: Unsupervised Learning – Credit card customer segmentation (K-means & Hierarchical clustering, Dendograms, Silhouette plots, EDA)
 
 * JEDHA (Paris) – Full stack data science program: Project in partnership with Carmignac Investment Fund (Asset Management firm based in Paris). Predicting and understanding customers’ behaviour (EDA, Linear Regression, Decision Trees, Correlations, Feature Importance).
