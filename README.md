@@ -15,7 +15,7 @@ Below is a list of data science projects I have been working on:
 * JEDHA (Paris) – Full stack data science program: Project in partnership with Carmignac Investment Fund (Asset Management firm based in Paris). Predicting and understanding customers’ behaviour (EDA, Linear Regression, Decision Trees, Correlations, Feature Importance).
 Please check YouTube video for the presentation: https://www.youtube.com/watch?v=0vqI_4tqsgw&t=4360s
 
-* Oil field production interactive dashboard: 
+* Oil field production interactive dashboards: 
   - With Dash and Plotly. Deployment with Heroku.
   - With Tableau
  
