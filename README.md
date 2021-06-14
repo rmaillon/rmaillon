@@ -20,5 +20,5 @@ Please check YouTube video for the presentation: https://www.youtube.com/watch?v
   - With Dash and Plotly. Deployment with Heroku.
   - With Tableau
  
-* Automated decline curve analysis to predict wells oil production using Python SciPy.
+* Automated decline curve analysis to predict oil wells production using Python SciPy.
 
