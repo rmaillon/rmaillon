@@ -13,6 +13,7 @@ Below is a list of data science projects I have been working on:
   - Project 5: Unsupervised Learning – Credit card customer segmentation (K-means & Hierarchical clustering, Dendograms, Silhouette plots, EDA)
   - Project 6: Introduction to Neural Networks – Bank churn prediction (TensorFlow, Keras, Artificial Neural Networks)
   - Project 7: Introduction to Computer Vision – Image classification (Convolution Neural Networks, Image Pre-processing using cv2, Colab)
+  - Project 8: Natural Language Processing – Sentiment analysis (Text pre-processing, Vectorization, Wordcloud)
 
 * JEDHA (Paris) – Full stack data science program: Project in partnership with Carmignac Investment Fund (Asset Management firm based in Paris). Predicting and understanding customers’ behaviour (EDA, Linear Regression, Decision Trees, Correlations, Feature Importance).
 Please check YouTube video for the presentation: https://www.youtube.com/watch?v=0vqI_4tqsgw&t=4360s
