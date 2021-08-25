@@ -1,7 +1,8 @@
 Hello and welcome to my project portfolio!
 
 My name is Rémi Maillon. I am a French petroleum engineer and data scientist.
-I am currently attending the post graduate program in AI & Machine Learning with the University of Texas at Austin (McCombs school of business).
+
+I have completed successfully the post graduate program in AI & Machine Learning from The University of Texas at Austin as well as the full stack data science program from JEDHA bootcamp in Paris.
 
 Below is a list of data science projects I have been working on:
 
@@ -15,7 +16,7 @@ Below is a list of data science projects I have been working on:
   - Project 7: Introduction to Computer Vision – Image classification (Convolution Neural Networks, Image Pre-processing using cv2, Colab)
   - Project 8: Natural Language Processing – Sentiment analysis (Text pre-processing, Vectorization, Wordcloud)
 
-* JEDHA (Paris) – Full stack data science program: Project in partnership with Carmignac Investment Fund (Asset Management firm based in Paris). Predicting and understanding customers’ behaviour (EDA, Linear Regression, Decision Trees, Correlations, Feature Importance).
+* JEDHA (Paris) – Full stack data science program: Project in partnership with an asset management firm in Paris. Predicting and understanding customers’ behaviour (EDA, Linear Regression, Decision Trees, Correlations, Feature Importance).
 Please check YouTube video for the presentation: https://www.youtube.com/watch?v=0vqI_4tqsgw&t=4360s
 
 * Oil field production interactive dashboards: 
